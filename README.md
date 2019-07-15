@@ -3,7 +3,7 @@ Simple Timeline with React js
 
 [![Code version](https://img.shields.io/badge/version-1.0.0-blue.svg)](http://www.npmjs.com/package/react-simple-timeline)
 
-See the Example [`Image Picker`](https://daym3l.github.io/react-simple-timeline/)
+See the Example [`Simple Timeline`](https://daym3l.github.io/react-simple-timeline/)
 
 React simple timeline is a React Js component for building a timeline
 
