@@ -1,5 +1,5 @@
 {
-  "name": "react-simple-timeline",
+  "name": "@daym3l/react-simple-timeline",
   "version": "1.0.0",
   "description": "React Simple Timeline",
   "main": "dist/index.js",
